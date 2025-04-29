@@ -1,8 +1,6 @@
 # stock-market-analysisBased on the files you've uploaded (`stock.ipynb`, `stock.csv`, and `symbols_valid_meta.csv`), here is a **customized README.md** for your **Stock Market Analysis Project**:
 
----
 
-```markdown
 # 📊 Stock Market Analysis Dashboard
 
 This project is an interactive **Stock Market Analysis Dashboard** created using Python, Jupyter Notebook, and Flask. It leverages historical stock price data to visualize trends, daily changes, and correlation among multiple companies.
@@ -59,9 +57,9 @@ This project is an interactive **Stock Market Analysis Dashboard** created using
 
 ---
 
-## ▶️ How to Run the Dashboard
+ ▶️ How to Run the Dashboard
 
-### 1. Install Required Packages
+ 1. Install Required Packages
 
 ```bash
 pip install pandas numpy flask plotly matplotlib seaborn
@@ -104,14 +102,7 @@ Go to [http://localhost:5000](http://localhost:5000) to view your dashboard.
 **Tanushka Tomar**  
 Actively involved in tech events, led the AI Odyssey segment of the TechRhythm competition.
 
----
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-```
-
----
 
 ![image](https://github.com/user-attachments/assets/20732e3b-c0e4-4d9f-98ee-a0d86a72815b)
 ![image](https://github.com/user-attachments/assets/abda6b94-662c-4884-b245-fd71073b0bd7)
